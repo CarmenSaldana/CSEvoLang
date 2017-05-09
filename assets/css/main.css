@@ -2011,12 +2011,12 @@
 		.image.fit {
 			display: block;
 			margin: 0 0 2.25em 0;
-			width: 100%;
+			width: 150%;
 		}
 
 			.image.fit img {
 				display: block;
-				width: 100%;
+				width: 150%;
 			}
 
 		.image.avatar {
@@ -2027,7 +2027,7 @@
 			.image.avatar img {
 				border-radius: 100%;
 				display: block;
-				width: 200%;
+				width: 150%;
 			}
 
 /* List */
